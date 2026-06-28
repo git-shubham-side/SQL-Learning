@@ -13,3 +13,5 @@ FROM table_name;
 
 SELECT StudentName AS NAME 
 FROM STUDENT;
+
+-- AND THATS IT 
